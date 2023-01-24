@@ -1,0 +1,15 @@
+C:\Users\jacek\source\repos\MilesToMetric\MilesToMetric\bin\Debug\net6.0\MilesToMetric.exe
+C:\Users\jacek\source\repos\MilesToMetric\MilesToMetric\bin\Debug\net6.0\MilesToMetric.deps.json
+C:\Users\jacek\source\repos\MilesToMetric\MilesToMetric\bin\Debug\net6.0\MilesToMetric.runtimeconfig.json
+C:\Users\jacek\source\repos\MilesToMetric\MilesToMetric\bin\Debug\net6.0\MilesToMetric.dll
+C:\Users\jacek\source\repos\MilesToMetric\MilesToMetric\bin\Debug\net6.0\MilesToMetric.pdb
+C:\Users\jacek\source\repos\MilesToMetric\MilesToMetric\obj\Debug\net6.0\MilesToMetric.csproj.AssemblyReference.cache
+C:\Users\jacek\source\repos\MilesToMetric\MilesToMetric\obj\Debug\net6.0\MilesToMetric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacek\source\repos\MilesToMetric\MilesToMetric\obj\Debug\net6.0\MilesToMetric.AssemblyInfoInputs.cache
+C:\Users\jacek\source\repos\MilesToMetric\MilesToMetric\obj\Debug\net6.0\MilesToMetric.AssemblyInfo.cs
+C:\Users\jacek\source\repos\MilesToMetric\MilesToMetric\obj\Debug\net6.0\MilesToMetric.csproj.CoreCompileInputs.cache
+C:\Users\jacek\source\repos\MilesToMetric\MilesToMetric\obj\Debug\net6.0\MilesToMetric.dll
+C:\Users\jacek\source\repos\MilesToMetric\MilesToMetric\obj\Debug\net6.0\refint\MilesToMetric.dll
+C:\Users\jacek\source\repos\MilesToMetric\MilesToMetric\obj\Debug\net6.0\MilesToMetric.pdb
+C:\Users\jacek\source\repos\MilesToMetric\MilesToMetric\obj\Debug\net6.0\MilesToMetric.genruntimeconfig.cache
+C:\Users\jacek\source\repos\MilesToMetric\MilesToMetric\obj\Debug\net6.0\ref\MilesToMetric.dll

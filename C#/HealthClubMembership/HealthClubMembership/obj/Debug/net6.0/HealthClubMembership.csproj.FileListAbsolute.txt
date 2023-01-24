@@ -1,0 +1,15 @@
+C:\Users\jacek\source\repos\HealthClubMembership\HealthClubMembership\bin\Debug\net6.0\HealthClubMembership.exe
+C:\Users\jacek\source\repos\HealthClubMembership\HealthClubMembership\bin\Debug\net6.0\HealthClubMembership.deps.json
+C:\Users\jacek\source\repos\HealthClubMembership\HealthClubMembership\bin\Debug\net6.0\HealthClubMembership.runtimeconfig.json
+C:\Users\jacek\source\repos\HealthClubMembership\HealthClubMembership\bin\Debug\net6.0\HealthClubMembership.dll
+C:\Users\jacek\source\repos\HealthClubMembership\HealthClubMembership\bin\Debug\net6.0\HealthClubMembership.pdb
+C:\Users\jacek\source\repos\HealthClubMembership\HealthClubMembership\obj\Debug\net6.0\HealthClubMembership.csproj.AssemblyReference.cache
+C:\Users\jacek\source\repos\HealthClubMembership\HealthClubMembership\obj\Debug\net6.0\HealthClubMembership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacek\source\repos\HealthClubMembership\HealthClubMembership\obj\Debug\net6.0\HealthClubMembership.AssemblyInfoInputs.cache
+C:\Users\jacek\source\repos\HealthClubMembership\HealthClubMembership\obj\Debug\net6.0\HealthClubMembership.AssemblyInfo.cs
+C:\Users\jacek\source\repos\HealthClubMembership\HealthClubMembership\obj\Debug\net6.0\HealthClubMembership.csproj.CoreCompileInputs.cache
+C:\Users\jacek\source\repos\HealthClubMembership\HealthClubMembership\obj\Debug\net6.0\HealthClubMembership.dll
+C:\Users\jacek\source\repos\HealthClubMembership\HealthClubMembership\obj\Debug\net6.0\refint\HealthClubMembership.dll
+C:\Users\jacek\source\repos\HealthClubMembership\HealthClubMembership\obj\Debug\net6.0\HealthClubMembership.pdb
+C:\Users\jacek\source\repos\HealthClubMembership\HealthClubMembership\obj\Debug\net6.0\HealthClubMembership.genruntimeconfig.cache
+C:\Users\jacek\source\repos\HealthClubMembership\HealthClubMembership\obj\Debug\net6.0\ref\HealthClubMembership.dll

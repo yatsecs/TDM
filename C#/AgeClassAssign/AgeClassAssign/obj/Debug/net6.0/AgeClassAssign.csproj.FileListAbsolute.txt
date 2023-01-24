@@ -1,0 +1,15 @@
+C:\Users\jacek\source\repos\AgeClassAssign\AgeClassAssign\bin\Debug\net6.0\AgeClassAssign.exe
+C:\Users\jacek\source\repos\AgeClassAssign\AgeClassAssign\bin\Debug\net6.0\AgeClassAssign.deps.json
+C:\Users\jacek\source\repos\AgeClassAssign\AgeClassAssign\bin\Debug\net6.0\AgeClassAssign.runtimeconfig.json
+C:\Users\jacek\source\repos\AgeClassAssign\AgeClassAssign\bin\Debug\net6.0\AgeClassAssign.dll
+C:\Users\jacek\source\repos\AgeClassAssign\AgeClassAssign\bin\Debug\net6.0\AgeClassAssign.pdb
+C:\Users\jacek\source\repos\AgeClassAssign\AgeClassAssign\obj\Debug\net6.0\AgeClassAssign.csproj.AssemblyReference.cache
+C:\Users\jacek\source\repos\AgeClassAssign\AgeClassAssign\obj\Debug\net6.0\AgeClassAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacek\source\repos\AgeClassAssign\AgeClassAssign\obj\Debug\net6.0\AgeClassAssign.AssemblyInfoInputs.cache
+C:\Users\jacek\source\repos\AgeClassAssign\AgeClassAssign\obj\Debug\net6.0\AgeClassAssign.AssemblyInfo.cs
+C:\Users\jacek\source\repos\AgeClassAssign\AgeClassAssign\obj\Debug\net6.0\AgeClassAssign.csproj.CoreCompileInputs.cache
+C:\Users\jacek\source\repos\AgeClassAssign\AgeClassAssign\obj\Debug\net6.0\AgeClassAssign.dll
+C:\Users\jacek\source\repos\AgeClassAssign\AgeClassAssign\obj\Debug\net6.0\refint\AgeClassAssign.dll
+C:\Users\jacek\source\repos\AgeClassAssign\AgeClassAssign\obj\Debug\net6.0\AgeClassAssign.pdb
+C:\Users\jacek\source\repos\AgeClassAssign\AgeClassAssign\obj\Debug\net6.0\AgeClassAssign.genruntimeconfig.cache
+C:\Users\jacek\source\repos\AgeClassAssign\AgeClassAssign\obj\Debug\net6.0\ref\AgeClassAssign.dll
