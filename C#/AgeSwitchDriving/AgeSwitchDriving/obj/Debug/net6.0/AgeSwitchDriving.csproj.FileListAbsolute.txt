@@ -1,0 +1,15 @@
+C:\Users\jacek\source\repos\AgeSwitchDriving\AgeSwitchDriving\bin\Debug\net6.0\AgeSwitchDriving.exe
+C:\Users\jacek\source\repos\AgeSwitchDriving\AgeSwitchDriving\bin\Debug\net6.0\AgeSwitchDriving.deps.json
+C:\Users\jacek\source\repos\AgeSwitchDriving\AgeSwitchDriving\bin\Debug\net6.0\AgeSwitchDriving.runtimeconfig.json
+C:\Users\jacek\source\repos\AgeSwitchDriving\AgeSwitchDriving\bin\Debug\net6.0\AgeSwitchDriving.dll
+C:\Users\jacek\source\repos\AgeSwitchDriving\AgeSwitchDriving\bin\Debug\net6.0\AgeSwitchDriving.pdb
+C:\Users\jacek\source\repos\AgeSwitchDriving\AgeSwitchDriving\obj\Debug\net6.0\AgeSwitchDriving.csproj.AssemblyReference.cache
+C:\Users\jacek\source\repos\AgeSwitchDriving\AgeSwitchDriving\obj\Debug\net6.0\AgeSwitchDriving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacek\source\repos\AgeSwitchDriving\AgeSwitchDriving\obj\Debug\net6.0\AgeSwitchDriving.AssemblyInfoInputs.cache
+C:\Users\jacek\source\repos\AgeSwitchDriving\AgeSwitchDriving\obj\Debug\net6.0\AgeSwitchDriving.AssemblyInfo.cs
+C:\Users\jacek\source\repos\AgeSwitchDriving\AgeSwitchDriving\obj\Debug\net6.0\AgeSwitchDriving.csproj.CoreCompileInputs.cache
+C:\Users\jacek\source\repos\AgeSwitchDriving\AgeSwitchDriving\obj\Debug\net6.0\AgeSwitchDriving.dll
+C:\Users\jacek\source\repos\AgeSwitchDriving\AgeSwitchDriving\obj\Debug\net6.0\refint\AgeSwitchDriving.dll
+C:\Users\jacek\source\repos\AgeSwitchDriving\AgeSwitchDriving\obj\Debug\net6.0\AgeSwitchDriving.pdb
+C:\Users\jacek\source\repos\AgeSwitchDriving\AgeSwitchDriving\obj\Debug\net6.0\AgeSwitchDriving.genruntimeconfig.cache
+C:\Users\jacek\source\repos\AgeSwitchDriving\AgeSwitchDriving\obj\Debug\net6.0\ref\AgeSwitchDriving.dll
