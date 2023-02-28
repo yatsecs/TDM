@@ -1,0 +1,15 @@
+C:\Users\jacek\source\repos\PizzaOrderingApp\PizzaOrderingApp\bin\Debug\net6.0\PizzaOrderingApp.exe
+C:\Users\jacek\source\repos\PizzaOrderingApp\PizzaOrderingApp\bin\Debug\net6.0\PizzaOrderingApp.deps.json
+C:\Users\jacek\source\repos\PizzaOrderingApp\PizzaOrderingApp\bin\Debug\net6.0\PizzaOrderingApp.runtimeconfig.json
+C:\Users\jacek\source\repos\PizzaOrderingApp\PizzaOrderingApp\bin\Debug\net6.0\PizzaOrderingApp.dll
+C:\Users\jacek\source\repos\PizzaOrderingApp\PizzaOrderingApp\bin\Debug\net6.0\PizzaOrderingApp.pdb
+C:\Users\jacek\source\repos\PizzaOrderingApp\PizzaOrderingApp\obj\Debug\net6.0\PizzaOrderingApp.csproj.AssemblyReference.cache
+C:\Users\jacek\source\repos\PizzaOrderingApp\PizzaOrderingApp\obj\Debug\net6.0\PizzaOrderingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacek\source\repos\PizzaOrderingApp\PizzaOrderingApp\obj\Debug\net6.0\PizzaOrderingApp.AssemblyInfoInputs.cache
+C:\Users\jacek\source\repos\PizzaOrderingApp\PizzaOrderingApp\obj\Debug\net6.0\PizzaOrderingApp.AssemblyInfo.cs
+C:\Users\jacek\source\repos\PizzaOrderingApp\PizzaOrderingApp\obj\Debug\net6.0\PizzaOrderingApp.csproj.CoreCompileInputs.cache
+C:\Users\jacek\source\repos\PizzaOrderingApp\PizzaOrderingApp\obj\Debug\net6.0\PizzaOrderingApp.dll
+C:\Users\jacek\source\repos\PizzaOrderingApp\PizzaOrderingApp\obj\Debug\net6.0\refint\PizzaOrderingApp.dll
+C:\Users\jacek\source\repos\PizzaOrderingApp\PizzaOrderingApp\obj\Debug\net6.0\PizzaOrderingApp.pdb
+C:\Users\jacek\source\repos\PizzaOrderingApp\PizzaOrderingApp\obj\Debug\net6.0\PizzaOrderingApp.genruntimeconfig.cache
+C:\Users\jacek\source\repos\PizzaOrderingApp\PizzaOrderingApp\obj\Debug\net6.0\ref\PizzaOrderingApp.dll
